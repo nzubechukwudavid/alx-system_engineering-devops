@@ -1,0 +1,1 @@
+These files are my solutions to tasks from 0x01. Shell, permissions
